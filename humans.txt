@@ -1,0 +1,21 @@
+/* TEAM */
+
+	Firestarter: Nathan Pitman
+	Email: hello [at] nathanpitman.com
+	Twitter: @nathanpitman
+	From: Bracknell Forest, UK
+
+	The Oracle: David Dixon
+	Email: hello [at] temperedvision.com
+	Twitter: @daviddixon
+	From: Surrey, UK
+
+	Cornelius: Elliot Lewis
+	Email: hello [at] notwothesame.com
+	Twitter: @elliotlewis
+	From: London, UK
+
+	Mostly Markup: Darren Miller
+	Email: hello [at] dmlogic.com
+	Twitter: @darrenmiller
+	From: Surrey, UK
